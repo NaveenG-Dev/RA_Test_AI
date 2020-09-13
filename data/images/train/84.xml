@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lab</folder>
+	<filename>84.jpg</filename>
+	<path>D:\RA_Test\AI_Test\RA_Test_AI\data\images\lab\84.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Big Jumpclip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>376</xmin>
+			<ymin>154</ymin>
+			<xmax>474</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>
