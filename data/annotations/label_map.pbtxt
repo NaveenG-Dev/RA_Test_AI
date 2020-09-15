@@ -1,0 +1,29 @@
+item {
+    id: 1
+    name: 'Big Jumpclip'
+}
+
+item {
+    id: 2
+    name: 'Big Paperclip'
+}
+
+item {
+    id: 3
+    name: 'Connector'
+}
+
+item {
+    id: 4
+    name: 'Joint Hold'
+}
+
+item {
+    id: 5
+    name: 'Small Jumpclip'
+}
+
+item {
+    id: 6
+    name: 'Small Paperclip'
+}
